@@ -5,10 +5,10 @@
 * My Java experience is 1 year :watch:
 ---
 #### Basic technologies:
-![Java](https://img.shields.io/badge/Java-%3E%3D%208-orange)
-![Spring](https://img.shields.io/badge/Spring-%3E%3D%205.0-green)
-![Hibernate](https://img.shields.io/badge/Hibernate-%3E%3D%205.0-yellow)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%3E%3D%2013-blue)
+![Java](https://img.shields.io/badge/Java-14-orange)
+![Spring](https://img.shields.io/badge/Spring-5-green)
+![Hibernate](https://img.shields.io/badge/Hibernate-5-yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![Travis](https://img.shields.io/badge/Travis-CI-brightgreen)
 
