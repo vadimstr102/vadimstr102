@@ -1,6 +1,6 @@
 ### Hello! 👋 My name is Vadim. Welcome!
 #### About me:
-* I am a Java developer from Novosibirsk :computer:
+* I am a Java Developer from Novosibirsk :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
 * My Java experience is 1 year :watch:
 ---
@@ -12,7 +12,7 @@
 ![Maven](https://img.shields.io/badge/Maven-3-red)
 ![Travis](https://img.shields.io/badge/Travis-CI-brightgreen)
 
-#### Here is my study repositories:
+#### Here are my study repositories:
 ##### Lessons:
 1. [Java Core, SQL, GC, OOD](https://github.com/vadimstr102/job4j)
 2. [Multithreading](https://github.com/vadimstr102/job4j_threads)
